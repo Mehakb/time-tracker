@@ -6,6 +6,7 @@ Java (Maven) application for tracking time on the job
 
 Simple Java-app using Maven.
 
+
 ## Building
 
 Standard maven targets for building.
